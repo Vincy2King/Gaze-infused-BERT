@@ -6,10 +6,11 @@ the aim of harnessing gaze information to enhance the performance of natural
 language processing (NLP) models.
 
 ## Analysis of Self-Attention and Gaze
+1. Download [dataset](https://pan.baidu.com/s/1lArAz2-wo7GKIYsRlxZyOg?pwd=4x0l) pwd:4x0l
 
-1. `cd Analysis` and run `python bert_crf.py` to obtain self-attention of BERT saved to `corpus/`
+2. `cd Analysis` and run `python bert_crf.py` to obtain self-attention of BERT saved to `corpus/`
 
-2. Calculate the spearmanr between self-attention and gaze by running `plot.py`.
+3. Calculate the spearmanr between self-attention and gaze by running `plot.py`.
 
 ## Gaze-infused BERT Method
 
