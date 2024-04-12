@@ -16,17 +16,17 @@ language processing (NLP) models.
 
 1. For those dataset without gaze signals, first `cd Gaze_prediction_model_V1/scripts/` and run `run_roberta.py`
 
-2. For GLUE and SNLI dataset, `cd source/`, and run the corresponding python file, such as 
-    * CoLA2.py, (download corresponding director)[https://pan.baidu.com/s/1Mp7SOwzgvYO73_xoYrBceQ?pwd=q36f] q36f
-    * MNLI.py, (download corresponding director)[https://pan.baidu.com/s/1WXqHfPgVuqAUiam4FkR4NA?pwd=ykp7] ykp7 
-    * MRPC.py, (download corresponding director)[https://pan.baidu.com/s/1fIjXowhpfHQ593D8UJW9zg?pwd=48sb] 48sb 
-    * QNLI.py, (download corresponding director)[https://pan.baidu.com/s/15xoUSB_4b_VC_jhzHze_kA?pwd=ftwa] ftwa
-    * QQP.py, (download corresponding director)[https://pan.baidu.com/s/10EOh-4SQjUFRcCo0kMVnOw?pwd=vld2] vld2
-    * RTE.py, (download corresponding director)[https://pan.baidu.com/s/19yDBxX75NUBLvkQZCawRIQ?pwd=ypnm] ypnm
-    * SNLI.py, (download corresponding director)[https://pan.baidu.com/s/1jKRUY-miKj3F2ZV6ANTL1A?pwd=wlkw] wlkw
-    * SST-2.py, (download corresponding director)[https://pan.baidu.com/s/1HnLJcntmVYduQydv1OVvNg?pwd=dsc4] dsc4
-    * STS-B.py, (download corresponding director)[https://pan.baidu.com/s/1TnWFFt8qZW9MfF3LyPp8YA?pwd=aiuw] aiuw
+2. For GLUE and SNLI datasets, `cd source/`, and run the corresponding python file, such as 
+    * CoLA2.py, (download)[https://pan.baidu.com/s/1Mp7SOwzgvYO73_xoYrBceQ?pwd=q36f] q36f
+    * MNLI.py, (download)[https://pan.baidu.com/s/1WXqHfPgVuqAUiam4FkR4NA?pwd=ykp7] ykp7 
+    * MRPC.py, (download)[https://pan.baidu.com/s/1fIjXowhpfHQ593D8UJW9zg?pwd=48sb] 48sb 
+    * QNLI.py, (download)[https://pan.baidu.com/s/15xoUSB_4b_VC_jhzHze_kA?pwd=ftwa] ftwa
+    * QQP.py, (download)[https://pan.baidu.com/s/10EOh-4SQjUFRcCo0kMVnOw?pwd=vld2] vld2
+    * RTE.py, (download)[https://pan.baidu.com/s/19yDBxX75NUBLvkQZCawRIQ?pwd=ypnm] ypnm
+    * SNLI.py, (download)[https://pan.baidu.com/s/1jKRUY-miKj3F2ZV6ANTL1A?pwd=wlkw] wlkw
+    * SST-2.py, (download)[https://pan.baidu.com/s/1HnLJcntmVYduQydv1OVvNg?pwd=dsc4] dsc4
+    * STS-B.py, (download)[https://pan.baidu.com/s/1TnWFFt8qZW9MfF3LyPp8YA?pwd=aiuw] aiuw
 
-3. For WSC WiC COPA dataset, `cd WWC/`, and revised the corresponding dataset to run `python run_main.py`
+3. For WSC, WiC, and COPA datasets, `cd WWC/`, and revised the corresponding dataset to run `python run_main.py`
 
 4. For LCSTS dataset, `cd LCSTS/`, and `python train.py`
